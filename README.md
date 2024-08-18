@@ -5,10 +5,10 @@ Códigos realizados para as listas da disciplina de Programação Competitiva, e
 - José Eduardo Duarte Massucato
 
 ## Códigos por Categoria
-- Iniciantes\\
-  [1001](https://www.beecrowd.com.br/repository/UOJ_1001.html) - [Extremamente Básico / Extremely Basic](./Iniciante/1001%20-%20Extremamente%20Básico.cpp)\\
-  [1021](https://www.beecrowd.com.br/repository/UOJ_1021.html) - [Notas e Moedas / Banknotes and Coins](./Iniciante/1021%20-%20Notas%20e%20Moedas.cpp)\\
-  [2653](https://www.beecrowd.com.br/repository/UOJ_2653.html) - [Dijkstra](./Iniciante/2653%20-%20Dijkstra.cpp)\\
+- Iniciantes  
+  [1001](https://www.beecrowd.com.br/repository/UOJ_1001.html) - [Extremamente Básico / Extremely Basic](./Iniciante/1001%20-%20Extremamente%20Básico.cpp)  
+  [1021](https://www.beecrowd.com.br/repository/UOJ_1021.html) - [Notas e Moedas / Banknotes and Coins](./Iniciante/1021%20-%20Notas%20e%20Moedas.cpp)  
+  [2653](https://www.beecrowd.com.br/repository/UOJ_2653.html) - [Dijkstra](./Iniciante/2653%20-%20Dijkstra.cpp)  
 
 - Ad-Hoc\\
   [1086](https://www.beecrowd.com.br/repository/UOJ_1086.html) - [O Salão do Clube / The Club Ballroom](./Ad-Hoc/1086%20-%20O%20Salão%20do%20Clube.cpp)\\
