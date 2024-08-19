@@ -30,9 +30,21 @@ Códigos realizados para as listas da disciplina de Programação Competitiva, e
   [2667](https://www.beecrowd.com.br/repository/UOJ_2667.html) - [Jogo de Boca / Mouth Game](./Matemática/2667%20-%20Jogo%20de%20Boca.cpp)  
 
 - Paradigmas  
+  [1288](https://www.beecrowd.com.br/repository/UOJ_1288.html) - [Canhão de Destruição / Destruction Cannon](./Paradigmas/1288%20-%20Canhão%20de%20Destruição.cpp)  
+  [1365](https://www.beecrowd.com.br/repository/UOJ_1365.html) - [Procurando Assentos / Finding Seats](./Paradigmas/1365%20-%20Procurando%20Assentos.cpp)  
   [1416](https://www.beecrowd.com.br/repository/UOJ_1416.html) - [Placar do ICPC / ICPC Scoreboard](./Paradigmas/1416%20-%20Placar%20do%20ICPC.cpp)  
+  [1485](https://www.beecrowd.com.br/repository/UOJ_1485.html) - [Roleta Turca / Turkish Roulette](./Paradigmas/1485%20-%20Roleta%20Turca.cpp)  
   [1642](https://www.beecrowd.com.br/repository/UOJ_1642.html) - [Teclado Quebrado / Broken Keyboard](./Paradigmas/1642%20-%20Teclado%20Quebrado.cpp)  
+  [1645](https://www.beecrowd.com.br/repository/UOJ_1645.html) - [El Dorado](./Paradigmas/1645%20-%20El%20Dorado.cpp)  
   [1767](https://www.beecrowd.com.br/repository/UOJ_1767.html) - [Saco do Papai Noel / Santa Claus Bag](./Paradigmas/1767%20-%20Saco%20do%20Papai%20Noel.cpp)  
+  [2243](https://www.beecrowd.com.br/repository/UOJ_2243.html) - [Isosceles](./Paradigmas/2243%20-%20Isosceles.cpp)  
+  [2532](https://www.beecrowd.com.br/repository/UOJ_2532.html) - [Demogorgon](./Paradigmas/2532%20-%20Demogorgon.cpp)  
+  [2555](https://www.beecrowd.com.br/repository/UOJ_2555.html) - [Quiz Universitário / University Quiz](./Paradigmas/2555%20-%20Quiz%20Universitário.cpp)  
+  [2677](https://www.beecrowd.com.br/repository/UOJ_2677.html) - [Par ou Ímpar / Even or Odd](./Paradigmas/2677%20-%20Par%20ou%20Ímpar.cpp)  
+  [2723](https://www.beecrowd.com.br/repository/UOJ_2723.html) - [Equilibrando Presentes / Balancing Gifts](./Paradigmas/2723%20-%20Equilibrando%20Presentes.cpp)  
+  [2778](https://www.beecrowd.com.br/repository/UOJ_2778.html) - [Matriz do Dabriel / Dabriel's Matrix](./Paradigmas/2778%20-%20Matriz%20do%20Dabriel.cpp)  
+  [2824](https://www.beecrowd.com.br/repository/UOJ_2824.html) - [Pudim](./Paradigmas/2824%20-%20Pudim.cpp)  
+  [2918]https://www.beecrowd.com.br/repository/UOJ_2918.html() - [Dígitos Inteligentes / Smart Digits](./Paradigmas/2918%20-%20Dígitos%20Inteligentes.cpp)  
   [2973](https://www.beecrowd.com.br/repository/UOJ_2973.html) - [Maratona Brasileira de Comedores de Pipoca](./Paradigmas/2973%20-%20Maratona%20Brasileira%20de%20Comedores%20de%20Pipoca.cpp)  
 
 - Grafos  
