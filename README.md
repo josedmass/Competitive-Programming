@@ -44,7 +44,7 @@ Códigos realizados para as listas da disciplina de Programação Competitiva, e
   [2723](https://www.beecrowd.com.br/repository/UOJ_2723.html) - [Equilibrando Presentes / Balancing Gifts](./Paradigmas/2723%20-%20Equilibrando%20Presentes.cpp)  
   [2778](https://www.beecrowd.com.br/repository/UOJ_2778.html) - [Matriz do Dabriel / Dabriel's Matrix](./Paradigmas/2778%20-%20Matriz%20do%20Dabriel.cpp)  
   [2824](https://www.beecrowd.com.br/repository/UOJ_2824.html) - [Pudim](./Paradigmas/2824%20-%20Pudim.cpp)  
-  [2918]https://www.beecrowd.com.br/repository/UOJ_2918.html() - [Dígitos Inteligentes / Smart Digits](./Paradigmas/2918%20-%20Dígitos%20Inteligentes.cpp)  
+  [2918](https://www.beecrowd.com.br/repository/UOJ_2918.html) - [Dígitos Inteligentes / Smart Digits](./Paradigmas/2918%20-%20Dígitos%20Inteligentes.cpp)  
   [2973](https://www.beecrowd.com.br/repository/UOJ_2973.html) - [Maratona Brasileira de Comedores de Pipoca](./Paradigmas/2973%20-%20Maratona%20Brasileira%20de%20Comedores%20de%20Pipoca.cpp)  
 
 - Grafos  
