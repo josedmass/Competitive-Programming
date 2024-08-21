@@ -26,6 +26,8 @@ Códigos realizados para as listas da disciplina de Programação Competitiva, e
 
 - Estruturas  
   [1340](https://www.beecrowd.com.br/repository/UOJ_1340.html) - [Eu Posso Adivinhar a Estrutura de Dados! / I Can Guess the Data Structure!](./Estruturas/1340%20-%20Eu%20Posso%20Adivinhar%20a%20Estrutura%20de%20Dados!.cpp)  
+  [2655](https://www.beecrowd.com.br/repository/UOJ_2655.html) - [Trilha Perigosa / Dangerous Trail](./Estruturas/2655%20-%20Trilha%20Perigosa.cpp)  
+  [2658](https://www.beecrowd.com.br/repository/UOJ_2658.html) - [Acordes Intergaláticos / Intergalactic Chords](./Estruturas/2658%20-%20Acordes%20Intergaláticos.cpp)  
 
 - Matemática  
   [1381](https://www.beecrowd.com.br/repository/UOJ_1381.html) - [Equações Diofantinas / Diophantine Equations](./Matemática/1381%20-%20Equações%20Diofantinas.cpp)  
@@ -75,3 +77,6 @@ Códigos realizados para as listas da disciplina de Programação Competitiva, e
   [2962](https://www.beecrowd.com.br/repository/UOJ_2962.html) - [Arte Valiosa / Artwork](./Grafos/2962%20-%20Arte%20Valiosa.cpp)  
 
 - Geometria
+  [1378](https://www.beecrowd.com.br/repository/UOJ_1378.html) - [Triângulo Isósceles / Isosceles Triangles](./Geometria/1378%20-%20Triângulo%20Isósceles.cpp)  
+  [1464](https://www.beecrowd.com.br/repository/UOJ_1464.html) - [Camadas da Cebola / Onion Layers](./Geometria/1464%20-%20Camadas%20da%20Cebola.cpp)  
+  [2891](https://www.beecrowd.com.br/repository/UOJ_2891.html) - [Um Problema com Final Feliz / A Problem With A Happy Ending](./Geometria/2891%20-%20Um%20Problema%20com%20Final%20Feliz.cpp)  
