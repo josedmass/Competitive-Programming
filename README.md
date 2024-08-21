@@ -15,6 +15,7 @@ Códigos realizados para as listas da disciplina de Programação Competitiva, e
   [1357](https://www.beecrowd.com.br/repository/UOJ_1357.html) - [Em Braille / In Braille](./Ad-Hoc/1357%20-%20Em%20Braille.cpp)  
   [1404](https://www.beecrowd.com.br/repository/UOJ_1404.html) - [MegaDamas / MegaCheckers](./Ad-Hoc/1404%20-%20MegaDamas.cpp)  
   [1470](https://www.beecrowd.com.br/repository/UOJ_1470.html) - [Máquina Dobradora / Folding Machine](./Ad-Hoc/1470%20-%20Máquina%20Dobradora.cpp)  
+  [1716](https://www.beecrowd.com.br/repository/UOJ_1716.html) - [RSA](./Ad-Hoc/1716%20-%20RSA.cpp)  
   [2884](https://www.beecrowd.com.br/repository/UOJ_2884.html) - [Interruptores](./Ad-Hoc/2884%20-%20Interruptores.cpp)  
   [2898](https://www.beecrowd.com.br/repository/UOJ_2898.html) - [Olimpíadas / Olimpyads](./Ad-Hoc/2898%20-%20Olimpíadas.cpp)  
   [2971](https://www.beecrowd.com.br/repository/UOJ_2971.html) - [Jogo de Baralho / Jar of Water Game](./Ad-Hoc/2971%20-%20Jogo%20de%20Baralho.cpp)  
@@ -27,16 +28,24 @@ Códigos realizados para as listas da disciplina de Programação Competitiva, e
   [1340](https://www.beecrowd.com.br/repository/UOJ_1340.html) - [Eu Posso Adivinhar a Estrutura de Dados! / I Can Guess the Data Structure!](./Estruturas/1340%20-%20Eu%20Posso%20Adivinhar%20a%20Estrutura%20de%20Dados!.cpp)  
 
 - Matemática  
+  [1381](https://www.beecrowd.com.br/repository/UOJ_1381.html) - [Equações Diofantinas / Diophantine Equations](./Matemática/1381%20-%20Equações%20Diofantinas.cpp)  
+  [1422](https://www.beecrowd.com.br/repository/UOJ_1422.html) - [Bactérias / Bacteria](./Matemática/1422%20-%20Bactérias.cpp)  
+  [1644](https://www.beecrowd.com.br/repository/UOJ_1644.html) - [Decifre o Texto / Decode the Strings](./Matemática/1644%20-%20Decifre%20o%20Texto.cpp)  
+  [1697](https://www.beecrowd.com.br/repository/UOJ_1697.html) - [Jaida e o Jogo Multiplicativo / Jaida and Multiply Game](./Matemática/1697%20-%20Jaida%20e%20o%20Jogo%20Multiplicativo.cpp)  
+  [1904](https://www.beecrowd.com.br/repository/UOJ_1904.html) - [Par ou Ímpar 2.0 / Odds and Evens 2.0](./Matemática/1904%20-%20Par%20ou%20Ímpar%202.0.cpp)  
   [2661](https://www.beecrowd.com.br/repository/UOJ_2661.html) - [Despojados / Stripped](./Matemática/2661%20-%20Despojados.cpp)  
   [2667](https://www.beecrowd.com.br/repository/UOJ_2667.html) - [Jogo de Boca / Mouth Game](./Matemática/2667%20-%20Jogo%20de%20Boca.cpp)  
+  [2674](https://www.beecrowd.com.br/repository/UOJ_2674.html) - [Super Primos: Ativar! / Super Primes: Engage!](./Matemática/2674%20-%20Super%20Primos%20Ativar.cpp)  
 
 - Paradigmas  
   [1210](https://www.beecrowd.com.br/repository/UOJ_1210.html) - [Produção Ótima de Ótima Vodka / Optimal Production of Great Vodka](./Paradigmas/1210%20-%20Produção%20Ótima%20de%20Ótima%20Vodka.cpp)  
   [1288](https://www.beecrowd.com.br/repository/UOJ_1288.html) - [Canhão de Destruição / Destruction Cannon](./Paradigmas/1288%20-%20Canhão%20de%20Destruição.cpp)  
   [1365](https://www.beecrowd.com.br/repository/UOJ_1365.html) - [Procurando Assentos / Finding Seats](./Paradigmas/1365%20-%20Procurando%20Assentos.cpp)  
   [1416](https://www.beecrowd.com.br/repository/UOJ_1416.html) - [Placar do ICPC / ICPC Scoreboard](./Paradigmas/1416%20-%20Placar%20do%20ICPC.cpp)  
+  [1474](https://www.beecrowd.com.br/repository/UOJ_1474.html) - [Ônibus / Buses](./Paradigmas/1474%20-%20Ônibus.cpp)  
   [1485](https://www.beecrowd.com.br/repository/UOJ_1485.html) - [Roleta Turca / Turkish Roulette](./Paradigmas/1485%20-%20Roleta%20Turca.cpp)  
   [1513](https://www.beecrowd.com.br/repository/UOJ_1513.html) - [Cavalo / Horse](./Paradigmas/1513%20-%20Cavalo.cpp)  
+  [1602](https://www.beecrowd.com.br/repository/UOJ_1602.html) - [Hiperprimos / Hyperprimes](./Paradigmas/1602%20-%20Hiperprimos.cpp)  
   [1642](https://www.beecrowd.com.br/repository/UOJ_1642.html) - [Teclado Quebrado / Broken Keyboard](./Paradigmas/1642%20-%20Teclado%20Quebrado.cpp)  
   [1645](https://www.beecrowd.com.br/repository/UOJ_1645.html) - [El Dorado](./Paradigmas/1645%20-%20El%20Dorado.cpp)  
   [1767](https://www.beecrowd.com.br/repository/UOJ_1767.html) - [Saco do Papai Noel / Santa Claus Bag](./Paradigmas/1767%20-%20Saco%20do%20Papai%20Noel.cpp)  
